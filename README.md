@@ -5,15 +5,17 @@
 
 #### Currently using
 - **Frontend**: React, React Native, HTML, CSS, Javascript
-<br/>
+
 #### Have experience in
 - **Frontend**: NextJS, Android
 - **Backend**: Django
 - **Database**: MySql, Spring
 - **Data analysis**: Google Colab
-
+<br/>
 각종 프로젝트에서 HTML, React를 활용하여 개발을 했습니다!
+<br/>
 최근 프로젝트 입니다!
+<br/>
 
 <br/>
 봐주셔서 감사합니다! 좋은 하루 보내세요 :)
