@@ -1,12 +1,12 @@
-#### Hi there 👋
-안녕하세요! 프론트엔드 개발자를 희망하고 있는 한송이입니다!
+# Hi I am HanSongyi 👋
+안녕하세요! 프론트엔드 개발자를 희망하고 있으며, 필요한 기술을 배우고 있습니다.
 <br/>
 <br/>
 
-#### Currently using
+### 현재 사용가능한 기술
 - **Frontend**: React, React Native, HTML, CSS, Javascript
 
-#### Have experience in
+### 경험한 언어
 - **Frontend**: NextJS, Android
 - **Backend**: Django
 - **Database**: MySql, Spring
@@ -14,9 +14,10 @@
 <br/>
 각종 프로젝트에서 HTML, React를 활용하여 개발을 했습니다!
 <br/>
-최근 프로젝트 입니다!
-<br/>
 
+
+### 프로젝트
+![프로젝트 테이블](https://github.com/your-repo/assets/image.png)
 <br/>
 봐주셔서 감사합니다! 좋은 하루 보내세요 :)
 -**Email**: allrohsy@gmail.com
