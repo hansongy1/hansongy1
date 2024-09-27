@@ -12,13 +12,16 @@
 - **Database**: MySql, Spring
 - **Data analysis**: Google Colab
 <br/>
-각종 프로젝트에서 HTML, React를 활용하여 개발을 했습니다!
-<br/>
 
 
 ### 완료 프로젝트
-- [피해피해](https://github.com/hansongy1/Disaster_alert)
-- 
+- **프론트엔드**: [피해피해](https://github.com/hansongy1/Disaster_alert)
+- **데이터분석**: [노인의 온라인 정보 활용 능력에 따른 여가문화생활](https://github.com/hansongy1/data-analysis-Project)
+<br/>
+
+### 진행 중인 프로젝트
+- **프론트엔드**: [도시락](https://github.com/hansongy1/castone-FE
+)
 <br/>
 봐주셔서 감사합니다! 좋은 하루 보내세요 :)
 -**Email**: allrohsy@gmail.com
