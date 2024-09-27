@@ -5,7 +5,7 @@
 
 #### Currently using
 - **Frontend**: React, React Native, HTML, CSS, Javascript
-
+<br/>
 #### Have experience in
 - **Frontend**: NextJS, Android
 - **Backend**: Django
@@ -15,7 +15,7 @@
 각종 프로젝트에서 HTML, React를 활용하여 개발을 했습니다!
 최근 프로젝트 입니다!
 
-
+<br/>
 봐주셔서 감사합니다! 좋은 하루 보내세요 :)
 -**Email**: allrohsy@gmail.com
 <!--
