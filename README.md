@@ -7,9 +7,9 @@
 - **Frontend**: React, React Native, HTML, CSS, Javascript
 
 ### 경험한 언어
-- **Frontend**: NextJS, Android
-- **Backend**: Django
-- **Database**: MySql, Spring
+- **Frontend**: NextJS, Android Studio
+- **Backend**: Django, Python
+- **Database**: MySql, Spring-boot
 - **Data analysis**: Google Colab
 <br/>
 
