@@ -8,7 +8,7 @@
 
 ### 경험한 언어
 - **Frontend**: NextJS, Android Studio
-- **Backend**: Django, Python
+- **Backend**: Django, Python, Java
 - **Database**: MySql, Spring-boot
 - **Data analysis**: Google Colab
 <br/>
