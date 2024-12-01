@@ -3,11 +3,11 @@
 <br/>
 <br/>
 
-### 현재 사용가능한 기술
+### 사용가능한 기술
 - **Frontend**: React, React Native, HTML, CSS, Javascript
 
 ### 경험한 언어
-- **Frontend**: NextJS, Android Studio
+- **Frontend**: React, React Native, HTML, Android Studio
 - **Backend**: Django, Python, Java
 - **Database**: MySql, Spring-boot
 - **Data analysis**: Google Colab
